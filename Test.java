@@ -37,5 +37,6 @@ public class Test {
         // 面向对象:
         // jdk提供了一个Arrays工具类,toString方法可以帮助我们按照这个格式打印数组
         System.out.println(Arrays.toString(arr));
+        System.out.println(Arrays.toString(arr));
     }
 }
